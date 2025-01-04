@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elauua
 - 👀 I’m interested in node.js
-- 🌱 I’m currently learning assembler
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +7(771)534 30 37
 
